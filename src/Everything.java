@@ -8,6 +8,7 @@ public class Everything {
 		
 		
 		do{
+			//These are the formulas the user will never see
 		Random rand = new Random(); 
 		even = rand.nextInt(20/2) *2;
 		ans = even / 2;
